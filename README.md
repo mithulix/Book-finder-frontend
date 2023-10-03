@@ -4,7 +4,7 @@ This is a web application built using React, TypeScript, Vite, Radix UI componen
 
 
 ### Deployment Frontend Live Link = https://book-finder-weld.vercel.app/
-### Frontend Repo = https://github.com/mithulix/Book-finder-frontend
+### Frontend Repo = https://github.com/mithulix/book-finder-frontend
 ### Backend Repo = https://github.com/mithulix/book-finder-backend
 
 ## Features
