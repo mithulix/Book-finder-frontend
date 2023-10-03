@@ -1,4 +1,4 @@
-# React TypeScript Vite App with Radix UI, Firebase, and Tailwind CSS
+# Book Finder web app.
 
 This is a web application built using React, TypeScript, Vite, Radix UI components, Firebase for backend services, and Tailwind CSS for styling. It provides a foundation for creating web applications with a modern technology stack.
 
