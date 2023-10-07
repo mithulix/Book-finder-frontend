@@ -6,7 +6,7 @@ export default function Layout() {
   return (
     <div className="">
       <Navbar />
-      <div> 
+      <div className="min-h-screen"> 
         <Outlet />
       </div>
       <Footer />

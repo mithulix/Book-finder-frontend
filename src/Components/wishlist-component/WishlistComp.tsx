@@ -18,11 +18,11 @@ export default function WishlistComp({ book }: IProps) {
 
     const matchedBook = books.find((book) => book._id === _id);
     return (
-        <div className="card card-compact w-4/6 bg-gray-100 rounded mx-auto px-10 my-4">
+        <div className="card card-compact w-4/6 bg-gray-100 rounded mx-auto px-10 my-4 ">
             <div className="hero-content flex-col lg:flex-row justify-between">
             <div className=" flex items-center justify-center gap-3">
                     <div>
-                        <img src={img} className="w-[60px] rounded" />
+                        <img src={img} className="w-[60px] rounded" alt="img"/>
                     </div>
                     <div>
                         <h1 className="text-2xl self-center">{title}</h1>

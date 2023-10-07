@@ -2,10 +2,17 @@
 
 This is a web application built using React, TypeScript, Vite, Radix UI components, Firebase for backend services, and Tailwind CSS for styling. It provides a foundation for creating web applications with a modern technology stack.
 
+## Deployment Frontend Live Link
 
-### Deployment Frontend Live Link = https://book-finder-weld.vercel.app/
-### Frontend Repo = https://github.com/mithulix/book-finder-frontend
-### Backend Repo = https://github.com/mithulix/book-finder-backend
+[Live Link](https://book-finder-weld.vercel.app)
+
+## Frontend Repo
+
+[Frontend Repo](https://github.com/mithulix/book-finder-frontend)
+
+## Backend Repo
+
+[Backend Repo](https://github.com/mithulix/book-finder-backend)
 
 ## Features
 
@@ -67,5 +74,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your changes and commit them.
 4. Push your changes to your fork.
 5. Open a pull request to the original repository.
-
-## License

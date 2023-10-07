@@ -23,7 +23,7 @@ function App() {
     });
   }, [dispatch]);
   return (
-    <div className=" font-['Quicksand'] text-black ">
+    <div className="font-['Quicksand'] text-black">
       <Layout />
       <Toaster />
     </div>
